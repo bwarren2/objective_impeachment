@@ -35,3 +35,9 @@ It is written for unbiased presentation, without presuming preexisting knowledge
 # Which means
 
 Directly or indirectly demanding anything of value personally in exchange for being influenced in the performance of an official act is bribery, and the Constitution says "The President shall be removed on impeachment and conviction" of that.
+
+---
+
+### Did Donald Trump seek a thing of value in return for being influenced in the performance of an official act?
+
+(Constitutionally, that implies impeachment and removal.)
