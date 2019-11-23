@@ -1,4 +1,4 @@
-# An Objective Impeachment Guide
+## An Objective Impeachment Guide
 
 ---
 
