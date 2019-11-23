@@ -34,10 +34,26 @@ It is written for unbiased presentation, without presuming preexisting knowledge
 
 ### Which means
 
-Directly or indirectly demanding "anything of value personally" in exchange for being influenced in the performance of an official act is bribery, and the Constitution says "The President shall be removed on impeachment and conviction" of that.
+Directly or indirectly demanding "anything of value personally" in exchange for "being influenced in the performance of an official act" is **bribery**, and the Constitution says "The President shall be removed on impeachment and conviction" of that.
 
 ---
 
 ### Did Donald Trump seek a thing of value in return for being influenced in the performance of an official act?
 
-(Constitutionally, that implies impeachment and removal.)
+---
+
+### Claims Required For Proof
+
+#. Trump sought/demanded an exchange of:
+#. an official act (dispensing Ukraine aid passed by Congress)
+#. for a thing of value ("investigations")
+#. that "investigations" were solely a thing of value personally, and not part of executing his job as President
+
+---
+
+Without _all four_ of those things, there is no bribery.
+
+Without seeking/a demand, there is no bribery.
+Without the "thing of value" that is not part of his job, there is no bribery.
+
+(But note: the transaction doesn't have to go through.  The demand itself is sufficient.)
