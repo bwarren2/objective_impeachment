@@ -21,6 +21,6 @@ It is designed for unbiased presentation, without presuming preexisting knowledg
 
 
 "Whoever—
-    ...
-    2. being a public official or person selected to be a public official, directly or indirectly, corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity, in return for:
-        a. being influenced in the performance of any official act;" - [US Code § 201](https://www.law.cornell.edu/uscode/text/18/201)
+...
+2. being a public official or person selected to be a public official, directly or indirectly, corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity, in return for:
+    a. being influenced in the performance of any official act;" - [US Code § 201](https://www.law.cornell.edu/uscode/text/18/201)
