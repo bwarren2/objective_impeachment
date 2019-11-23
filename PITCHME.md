@@ -2,9 +2,9 @@
 
 ---
 
-This is an objective, non-partisan summary of the current impeachment case against Donald Trump.
+This is an non-partisan, definition-and-evidence heavy summary of the current impeachment case against Donald Trump.
 
-It is designed for unbiased presentation, without presuming preexisting knowledge.
+It is written for unbiased presentation, without presuming preexisting knowledge.
 
 ---
 
