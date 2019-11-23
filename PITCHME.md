@@ -44,10 +44,10 @@ Directly or indirectly demanding "anything of value personally" in exchange for 
 
 ### Claims Required For Proof
 
-#. Trump sought/demanded an exchange of:
-#. an official act (dispensing Ukraine aid passed by Congress)
-#. for a thing of value ("investigations")
-#. that "investigations" were solely a thing of value personally, and not part of executing his job as President
+1. Trump sought/demanded an exchange of:
+2. an official act (dispensing Ukraine aid passed by Congress)
+3. for a thing of value ("investigations")
+4. that "investigations" were ***solely*** a thing of value personally, and **not** part of executing his job as President
 
 ---
 
