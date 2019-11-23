@@ -2,7 +2,7 @@
 
 ---
 
-This is an objective, non-partisan of the current impeachment case against Donald Trump.
+This is an objective, non-partisan summary of the current impeachment case against Donald Trump.
 
 It is designed for unbiased presentation, without presuming preexisting knowledge.
 
