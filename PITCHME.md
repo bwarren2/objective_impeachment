@@ -91,13 +91,13 @@ Sondland told Ukrainians about investigations "deliverable" being required for m
 
 ### Sondland's Perspective
 
-"Was there a quid pro quo? As I testified previously with regard to the requested White House call and the White House meeting, the answer is yes. Mr. Giuliani conveyed to Secretary Perry, Ambassador Volker and others that President Trump wanted a public statement from President Zelensky committing to investigations of Burisma and the 2016 election. Mr. Giuliani expressed those requests directly to the Ukrainians and Mr. Giuliani also expressed those requests directly to us."[Source](https://youtu.be/EkN4P7R5stE?t=5554)
+![Video](https://www.youtube.com/embed/EkN4P7R5stE?start=5554&end=5612)
 
----
++++
 
 ### Sondland's Perspective
 
-![Video](https://www.youtube.com/embed/EkN4P7R5stE?start=5554&end=5612)
+"Was there a quid pro quo? As I testified previously with regard to the requested White House call and the White House meeting, the answer is yes. Mr. Giuliani conveyed to Secretary Perry, Ambassador Volker and others that President Trump wanted a public statement from President Zelensky committing to investigations of Burisma and the 2016 election. Mr. Giuliani expressed those requests directly to the Ukrainians and Mr. Giuliani also expressed those requests directly to us."[Source](https://youtu.be/EkN4P7R5stE?t=5554)
 
 ---
 
