@@ -60,6 +60,16 @@ Without the "thing of value" that is not part of his job, there is no bribery.
 
 ---
 
+### What are the key events?
+
+ * "Irregular" channels
+ * Pressure for "investigations" to get white house visit
+ * July 10 Meeting
+ * July 25 Call
+
+
+---
+
 ### "Irregular" Diplomatic Channels
 
 "I encountered an irregular, informal channel of US policy-making with respect to Ukraine, unaccountable to Congress, a channel that included then-Special Envoy Kurt Volker, US Ambassador to the European Union Gordon Sondland, Secretary of Energy Rick Perry, White House Chief of Staff Mick Mulvaney, and, as I subsequently learned, Mr. Giuliani."
@@ -181,4 +191,38 @@ INVESTIGATIONS OF THE 2016
 ELECTIONS AND BURISMA AS
 MR. GIULIANI HAD DEMANDED.
 
+##### Holmes: Sondland said "big stuff that benefits the president, Biden investigaton"
+
+
+![Video](https://www.youtube.com/embed/MpTIb_HubrY?start=5098&end=5135)
+(July 26th)
++++
+
+##### Sondland: Was the aid withheld to induce investigation announcement?
+
+I TOOK THE OPPORTUNITY TO ASK
+HIM FOR HIS CANDID IMPRESSION OF
+THE PRESIDENT'S VIEWS ON
+UKRAINE.
+IN PARTICULAR, I ASKED
+AMBASSADOR SONDLAND IF IT WAS
+TRUE THAT THE PRESIDENT DID NOT
+GIVE AN EXPLETIVE ABOUT UKRAINE.
+AMBASSADOR SONDLAND AGREED THE
+PRESIDENT DID NOT GIVE AN
+EXPLETIVE ABOUT UKRAINE.
+I ASKED WHY NOT.
+AMBASSADOR SONDLAND STATED THE
+PRESIDENT ONLY CARES ABOUT BIG
+STUFF.
+I NOTED THERE WAS BIG STUFF
+GOING ON IN UKRAINE, LIKE A WAR
+WITH RUSSIA.
+AMBASSADOR SONDLAND REPLIED HE
+MEANT BIG STUFF THAT BENEFITS
+THE PRESIDENT, LIKE THE BIDEN
+INVESTIGATION, THAT MR. GIULIANI
+WAS PUSHING.
+THE CONVERSATION THEN MOVED ON
+TO OTHER TOPICS.
 
