@@ -123,12 +123,12 @@ Sondland, Volker, Giuliani, and Mulvaney were in a diplomatic backchannel unacco
 
 ---
 
-##### The July 10 Meeting
+##### July 10 Meeting
 
-"Bolton ended meeting when Sondland discussed requirement of specific investigations "deliverable" for meeting with Trump to Ukrainians."
-[Alexander Vindman's Testimony, Source](https://www.youtube.com/watch?v=GqRfRrhtAZs?t=1:35:30)
+Vindman Testimony:
 
-<Get Fiona Hill Clip>
+![Video](https://www.youtube.com/embed/GqRfRrhtAZs?start=5694&end=5758)
+
 
 ---
 
@@ -138,9 +138,40 @@ Sondland told Ukrainians about investigations "deliverable" being required for m
 
 ---
 
-"That resumption of US aid would likely not occur until Ukraine provided the public anti-corruption statement that we have been discussing for many weeks.”
-[]()
+##### Holmes: Sondland said "big stuff that benefits the president, Biden investigaton"
 
+
+![Video](https://www.youtube.com/embed/MpTIb_HubrY?start=5098&end=5135)
+(July 26th?)
++++
+
+##### Sondland: Was the aid withheld to induce investigation announcement?
+
+I TOOK THE OPPORTUNITY TO ASK
+HIM FOR HIS CANDID IMPRESSION OF
+THE PRESIDENT'S VIEWS ON
+UKRAINE.
+IN PARTICULAR, I ASKED
+AMBASSADOR SONDLAND IF IT WAS
+TRUE THAT THE PRESIDENT DID NOT
+GIVE AN EXPLETIVE ABOUT UKRAINE.
+AMBASSADOR SONDLAND AGREED THE
+PRESIDENT DID NOT GIVE AN
+EXPLETIVE ABOUT UKRAINE.
+I ASKED WHY NOT.
+AMBASSADOR SONDLAND STATED THE
+PRESIDENT ONLY CARES ABOUT BIG
+STUFF.
+I NOTED THERE WAS BIG STUFF
+GOING ON IN UKRAINE, LIKE A WAR
+WITH RUSSIA.
+AMBASSADOR SONDLAND REPLIED HE
+MEANT BIG STUFF THAT BENEFITS
+THE PRESIDENT, LIKE THE BIDEN
+INVESTIGATION, THAT MR. GIULIANI
+WAS PUSHING.
+THE CONVERSATION THEN MOVED ON
+TO OTHER TOPICS.
 
 ---
 
@@ -217,41 +248,4 @@ UKRAINE COMMITTING TO THE
 INVESTIGATIONS OF THE 2016
 ELECTIONS AND BURISMA AS
 MR. GIULIANI HAD DEMANDED.
-
----
-
-##### Holmes: Sondland said "big stuff that benefits the president, Biden investigaton"
-
-
-![Video](https://www.youtube.com/embed/MpTIb_HubrY?start=5098&end=5135)
-(July 26th?)
-+++
-
-##### Sondland: Was the aid withheld to induce investigation announcement?
-
-I TOOK THE OPPORTUNITY TO ASK
-HIM FOR HIS CANDID IMPRESSION OF
-THE PRESIDENT'S VIEWS ON
-UKRAINE.
-IN PARTICULAR, I ASKED
-AMBASSADOR SONDLAND IF IT WAS
-TRUE THAT THE PRESIDENT DID NOT
-GIVE AN EXPLETIVE ABOUT UKRAINE.
-AMBASSADOR SONDLAND AGREED THE
-PRESIDENT DID NOT GIVE AN
-EXPLETIVE ABOUT UKRAINE.
-I ASKED WHY NOT.
-AMBASSADOR SONDLAND STATED THE
-PRESIDENT ONLY CARES ABOUT BIG
-STUFF.
-I NOTED THERE WAS BIG STUFF
-GOING ON IN UKRAINE, LIKE A WAR
-WITH RUSSIA.
-AMBASSADOR SONDLAND REPLIED HE
-MEANT BIG STUFF THAT BENEFITS
-THE PRESIDENT, LIKE THE BIDEN
-INVESTIGATION, THAT MR. GIULIANI
-WAS PUSHING.
-THE CONVERSATION THEN MOVED ON
-TO OTHER TOPICS.
 
