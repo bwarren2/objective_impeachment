@@ -64,8 +64,16 @@ Without the "thing of value" that is not part of his job, there is no bribery.
 
  * "Irregular" channels
  * Pressure for "investigations" to get white house visit
- * July 10 Meeting
+ * July 10 Meeting (Bolton, Hill, Vindman)
+ * July 23 OMB reiterates aid suspended
  * July 25 Call
+ * July 26 Sondland meeting
+ * Aug 28: Public reporting aid held up, politico
+ * Sept 9: Congress told of whistleblower complaint
+ * Sept 10: Bolton Resigns
+ * Sept 11: Aid released
+ * Sept 25: Complaint released to Congress
+
 
 
 ---
@@ -195,7 +203,7 @@ MR. GIULIANI HAD DEMANDED.
 
 
 ![Video](https://www.youtube.com/embed/MpTIb_HubrY?start=5098&end=5135)
-(July 26th)
+(July 26th?)
 +++
 
 ##### Sondland: Was the aid withheld to induce investigation announcement?
