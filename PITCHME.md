@@ -97,7 +97,7 @@ Sondland told Ukrainians about investigations "deliverable" being required for m
 
 ### Sondland's Perspective
 
-![Video](https://youtube.com/watch?v=EkN4P7R5stE&t=5554)
+![Video](https://www.youtube.com/embed/EkN4P7R5stE?start=5554)
 
 ---
 
