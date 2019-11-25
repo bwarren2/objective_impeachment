@@ -175,30 +175,6 @@ TO OTHER TOPICS.
 
 ---
 
-##### Morrison on Sondland: Was the aid withheld to induce investigation announcement?
-
-Morrison's Testimony:
-
-![Video](https://www.youtube.com/embed/HAI39mb3QaI?start=5516&end=5536)
-(September meeting with Yermak)
-+++
-
-##### Morrison on Sondland: Was the aid withheld to induce investigation announcement?
-
-
-"WHAT DID AMBASSADOR SONDLAND
-TELL YOU THAT HE TOLD MR.
-YERMAK?"
-
-"THAT THE UKRAINIANS WOULD
-HAVE TO HAVE THE PROSECUTOR
-GENERAL MAKE A STATEMENT WITH
-RESPECT TO THE INVESTIGATIONS AS
-A CONDITION OF HAVING THE AID
-LIFTED."
-
----
-
 ##### Mulvaney:  Was the aid withheld to induce investigation announcement?
 
 Mulvaney's Press Conference:
@@ -248,4 +224,31 @@ UKRAINE COMMITTING TO THE
 INVESTIGATIONS OF THE 2016
 ELECTIONS AND BURISMA AS
 MR. GIULIANI HAD DEMANDED.
+
+---
+
+
+##### Morrison on Sondland: Was the aid withheld to induce investigation announcement?
+
+Morrison's Testimony:
+
+![Video](https://www.youtube.com/embed/HAI39mb3QaI?start=5516&end=5536)
+(September meeting with Yermak)
++++
+
+##### Morrison on Sondland: Was the aid withheld to induce investigation announcement?
+
+
+"WHAT DID AMBASSADOR SONDLAND
+TELL YOU THAT HE TOLD MR.
+YERMAK?"
+
+"THAT THE UKRAINIANS WOULD
+HAVE TO HAVE THE PROSECUTOR
+GENERAL MAKE A STATEMENT WITH
+RESPECT TO THE INVESTIGATIONS AS
+A CONDITION OF HAVING THE AID
+LIFTED."
+
+---
 
