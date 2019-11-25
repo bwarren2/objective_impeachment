@@ -75,11 +75,33 @@ Without the "thing of value" that is not part of his job, there is no bribery.
 
 ---
 
-### "Irregular" Diplomatic Channels
+---
 
-"I encountered an irregular, informal channel of US policy-making with respect to Ukraine, unaccountable to Congress, a channel that included then-Special Envoy Kurt Volker, US Ambassador to the European Union Gordon Sondland, Secretary of Energy Rick Perry, White House Chief of Staff Mick Mulvaney, and, as I subsequently learned, Mr. Giuliani."
+##### Taylor: Who are the actors?
 
-[Bill Taylor's Testimony, Source](https://www.youtube.com/watch?v=GqRfRrhtAZs?t=1:35:30)
+
+![Video](https://www.youtube.com/embed/cdXAhuHhqUY?start=5503&end=5539)
+
++++
+
+##### Taylor: Who are the actors?
+
+AT THE SAME TIME HOWEVER, I
+ENCOUNTERED AN IRREGULAR
+INFOLLOW CHANNEL OF U.S. POLICY
+MAKING UNACCOUNTABLE TO
+CONGRESS, A CHANNEL THAT
+INCLUDED THEN SPECIAL ENJOY KURT
+VOLKER, U.S. AMBASSADOR GORDON
+SONDLOND, RICK PERRY, MICK
+MULVANEY AND AS I SUBSEQUENTLY
+LEARNED, MR. GIULIANI.
+I WAS CLEARLY IN THE REGULAR
+CHANNEL, BUT I WAS ALSO IN THE
+IRREGULAR ONE TO THE EXPENT THAT
+AMBASSADORS VOLKER AND SONDLAND
+INCLUDED ME IN CERTAIN
+CONVERSATIONS.
 
 ---
 
@@ -195,6 +217,8 @@ UKRAINE COMMITTING TO THE
 INVESTIGATIONS OF THE 2016
 ELECTIONS AND BURISMA AS
 MR. GIULIANI HAD DEMANDED.
+
+---
 
 ##### Holmes: Sondland said "big stuff that benefits the president, Biden investigaton"
 
