@@ -59,22 +59,19 @@ Without the "thing of value" that is not part of his job, there is no bribery.
 (But note: the transaction doesn't have to go through.  The demand itself is sufficient.)
 
 ---
-
 #### What are the key events?
 
- * "Irregular" channels
- * Pressure for "investigations" to get white house visit
- * July 10 Meeting (Bolton, Hill, Vindman)
- * July 23 OMB reiterates aid suspended
- * July 25 Call
- * July 26 Sondland meeting
- * Aug 28: Public reporting aid held up, politico
- * Sept 9: Congress told of whistleblower complaint
- * Sept 10: Bolton Resigns
- * Sept 11: Aid released
- * Sept 25: Complaint released to Congress
-
-
+ * Phase 1: "Irregular" channels
+ * Phase 1: Pressure for "investigations" to get white house visit
+ * Phase 1: July 10 Meeting (Bolton, Hill, Vindman)
+ * Phase 2: July 23 OMB reiterates aid suspended
+ * Phase 2: July 25 Call
+ * Phase 2: July 26 Sondland meeting
+ * Phase 2: Aug 28: Public reporting aid held up, politico
+ * Phase 3: Sept 9: Congress told of whistleblower complaint
+ * Phase 3: Sept 10: Bolton Resigns
+ * Phase 3: Sept 11: Aid released
+ * Phase 3: Sept 25: Complaint released to Congress
 
 ---
 
