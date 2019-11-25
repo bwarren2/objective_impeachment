@@ -74,6 +74,18 @@ Sondland, Volker, Giuliani, and Mulvaney were in a diplomatic backchannel unacco
 
 ---
 
+### Sondland's Perspective
+
+![Video](https://www.youtube.com/embed/EkN4P7R5stE?start=5554&end=5612)
+
++++
+
+### Sondland's Perspective
+
+"Was there a quid pro quo? As I testified previously with regard to the requested White House call and the White House meeting, the answer is yes. Mr. Giuliani conveyed to Secretary Perry, Ambassador Volker and others that President Trump wanted a public statement from President Zelensky committing to investigations of Burisma and the 2016 election. Mr. Giuliani expressed those requests directly to the Ukrainians and Mr. Giuliani also expressed those requests directly to us."[Source](https://youtu.be/EkN4P7R5stE?t=5554)
+
+---
+
 ### The July 10 Meeting
 
 "Bolton ended meeting when Sondland discussed requirement of specific investigations "deliverable" for meeting with Trump to Ukrainians."
@@ -89,18 +101,84 @@ Sondland told Ukrainians about investigations "deliverable" being required for m
 
 ---
 
-### Sondland's Perspective
+"That resumption of US aid would likely not occur until Ukraine provided the public anti-corruption statement that we have been discussing for many weeks.”
+[]()
 
-![Video](https://www.youtube.com/embed/EkN4P7R5stE?start=5554&end=5612)
-
-+++
-
-### Sondland's Perspective
-
-"Was there a quid pro quo? As I testified previously with regard to the requested White House call and the White House meeting, the answer is yes. Mr. Giuliani conveyed to Secretary Perry, Ambassador Volker and others that President Trump wanted a public statement from President Zelensky committing to investigations of Burisma and the 2016 election. Mr. Giuliani expressed those requests directly to the Ukrainians and Mr. Giuliani also expressed those requests directly to us."[Source](https://youtu.be/EkN4P7R5stE?t=5554)
 
 ---
 
-"That resumption of US aid would likely not occur until Ukraine provided the public anti-corruption statement that we have been discussing for many weeks.”
-[]()
+### Morrison on Sondland: Was the aid withheld to induce investigation announcement?
+
+Morrison's Testimony:
+
+![Video](https://www.youtube.com/embed/HAI39mb3QaI?start=5516&end=5534)
+(September meeting with Yermak)
++++
+
+### Morrison on Sondland: Was the aid withheld to induce investigation announcement?
+
+
+"WHAT DID AMBASSADOR SONDLAND
+TELL YOU THAT HE TOLD MR.
+YERMAK?"
+
+"THAT THE UKRAINIANS WOULD
+HAVE TO HAVE THE PROSECUTOR
+GENERAL MAKE A STATEMENT WITH
+RESPECT TO THE INVESTIGATIONS AS
+A CONDITION OF HAVING THE AID
+LIFTED."
+
+---
+
+### Mulvaney:  Was the aid withheld to induce investigation announcement?
+
+Mulvaney's Press Conference:
+
+![Video](https://www.youtube.com/embed/LKRjDdIGWU4?start=144&end=163)
+
++++
+
+### Mulvaney: Was the aid withheld to induce investigation announcement?
+
+
+report demand for an investigation into
+the Democrats was part of the reason
+that he it was on to withhold funding to
+Ukraine we look back to what happened in
+2016
+
+certainly was was part of the thing that
+he was worried about in corruption with
+that nation and that is absolutely a
+broken yeah which which ultimately then
+flowed by the way there was a report
+
+---
+
+### Sondland: Was the aid withheld to induce investigation announcement?
+
+Sondland Testimony:
+
+![Video](https://www.youtube.com/embed/EkN4P7R5stE?start=4409&end=4442)
+
++++
+
+### Sondland: Was the aid withheld to induce investigation announcement?
+
+I TRIED DILIGENTLY TO ASK WHY
+THE AID WAS SUSPENDED BUT I
+NEVER RECEIVED A CLEAR ANSWER.
+STILL HAVEN'T TO THIS DAY.
+IN THE ABSENCE OF ANY CREDIBLE
+EXPLANATION FOR THE SUSPENSION
+OF AID, I LATER CAME TO BELIEVE
+THAT THE RESUMPTION OF SECURITY
+AID WOULD NOT OCCUR UNTIL THERE
+WAS A PUBLIC STATEMENT FROM
+UKRAINE COMMITTING TO THE
+INVESTIGATIONS OF THE 2016
+ELECTIONS AND BURISMA AS
+MR. GIULIANI HAD DEMANDED.
+
 
