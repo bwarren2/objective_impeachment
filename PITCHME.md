@@ -74,19 +74,19 @@ Sondland, Volker, Giuliani, and Mulvaney were in a diplomatic backchannel unacco
 
 ---
 
-### Sondland's Perspective
+##### Sondland's Perspective
 
 ![Video](https://www.youtube.com/embed/EkN4P7R5stE?start=5554&end=5612)
 
 +++
 
-### Sondland's Perspective
+##### Sondland's Perspective
 
 "Was there a quid pro quo? As I testified previously with regard to the requested White House call and the White House meeting, the answer is yes. Mr. Giuliani conveyed to Secretary Perry, Ambassador Volker and others that President Trump wanted a public statement from President Zelensky committing to investigations of Burisma and the 2016 election. Mr. Giuliani expressed those requests directly to the Ukrainians and Mr. Giuliani also expressed those requests directly to us."[Source](https://youtu.be/EkN4P7R5stE?t=5554)
 
 ---
 
-### The July 10 Meeting
+##### The July 10 Meeting
 
 "Bolton ended meeting when Sondland discussed requirement of specific investigations "deliverable" for meeting with Trump to Ukrainians."
 [Alexander Vindman's Testimony, Source](https://www.youtube.com/watch?v=GqRfRrhtAZs?t=1:35:30)
@@ -95,7 +95,7 @@ Sondland, Volker, Giuliani, and Mulvaney were in a diplomatic backchannel unacco
 
 ---
 
-### The July 10 Meeting Conclusions
+##### The July 10 Meeting Conclusions
 
 Sondland told Ukrainians about investigations "deliverable" being required for meeting with Trump on July 10.
 
@@ -107,15 +107,15 @@ Sondland told Ukrainians about investigations "deliverable" being required for m
 
 ---
 
-### Morrison on Sondland: Was the aid withheld to induce investigation announcement?
+##### Morrison on Sondland: Was the aid withheld to induce investigation announcement?
 
 Morrison's Testimony:
 
-![Video](https://www.youtube.com/embed/HAI39mb3QaI?start=5516&end=5534)
+![Video](https://www.youtube.com/embed/HAI39mb3QaI?start=5516&end=5536)
 (September meeting with Yermak)
 +++
 
-### Morrison on Sondland: Was the aid withheld to induce investigation announcement?
+##### Morrison on Sondland: Was the aid withheld to induce investigation announcement?
 
 
 "WHAT DID AMBASSADOR SONDLAND
@@ -131,15 +131,15 @@ LIFTED."
 
 ---
 
-### Mulvaney:  Was the aid withheld to induce investigation announcement?
+##### Mulvaney:  Was the aid withheld to induce investigation announcement?
 
 Mulvaney's Press Conference:
 
-![Video](https://www.youtube.com/embed/LKRjDdIGWU4?start=144&end=163)
+![Video](https://www.youtube.com/embed/LKRjDdIGWU4?start=144&end=165)
 
 +++
 
-### Mulvaney: Was the aid withheld to induce investigation announcement?
+##### Mulvaney: Was the aid withheld to induce investigation announcement?
 
 
 report demand for an investigation into
@@ -156,7 +156,7 @@ flowed by the way there was a report
 
 ---
 
-### Sondland: Was the aid withheld to induce investigation announcement?
+##### Sondland: Was the aid withheld to induce investigation announcement?
 
 Sondland Testimony:
 
@@ -164,7 +164,7 @@ Sondland Testimony:
 
 +++
 
-### Sondland: Was the aid withheld to induce investigation announcement?
+##### Sondland: Was the aid withheld to induce investigation announcement?
 
 I TRIED DILIGENTLY TO ASK WHY
 THE AID WAS SUSPENDED BUT I
