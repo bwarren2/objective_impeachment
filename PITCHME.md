@@ -169,7 +169,7 @@ The Ukrainians knew about a demand for announcement of investigations into Buris
 
 ##### July 25 Call
 
-<img src="assets/img/july_25/first_page.png" alt="July 25 Readout" height="40%" width="40%">
+<img src="assets/img/july_25_call/first_page.png" alt="July 25 Readout" height="40%" width="40%">
 
 ---
 
@@ -181,19 +181,19 @@ On July 25, a call occurred between President Trump and the President of Ukraine
 
 ##### July 25 Call, Snippet 1
 
-<img src="assets/img/july_25/snippet_1.png" alt="July 25 Readout" height="40%" width="40%">
+<img src="assets/img/july_25_call/snippet_1.png" alt="July 25 Readout" height="40%" width="40%">
 
 ---
 
 ##### July 25 Call, Snippet 2
 
-<img src="assets/img/july_25/snippet_2.png" alt="July 25 Readout" height="40%" width="40%">
+<img src="assets/img/july_25_call/snippet_2.png" alt="July 25 Readout" height="40%" width="40%">
 
 ---
 
 ##### July 25 Call, Snippet 1
 
-<img src="assets/img/july_25/snippet_3.png" alt="July 25 Readout" height="40%" width="40%">
+<img src="assets/img/july_25_call/snippet_3.png" alt="July 25 Readout" height="40%" width="40%">
 
 ---
 
