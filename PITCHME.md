@@ -135,6 +135,13 @@ Sondland, Volker, Giuliani, and Mulvaney were in a diplomatic backchannel unacco
 
 ---
 
+On July 10, there was an especially controversial meeting between US staff and a Ukrainian representative.
+
+This is the meeting where the "I am not of whatever drug deal Mulvaney and Sondland are cooking up" quote comes from.
+
+---
+
+
 ##### July 10 Meeting
 
 Vindman Testimony:
@@ -162,7 +169,31 @@ The Ukrainians knew about a demand for announcement of investigations into Buris
 
 ##### July 25 Call
 
-<img src="assets/img/july_25_call.png" alt="July 25 Readout" height="40%" width="40%">
+<img src="assets/img/july_25/first_page.png" alt="July 25 Readout" height="40%" width="40%">
+
+---
+
+##### July 25 Call
+
+On July 25, a call occurred between President Trump and the President of Ukraine, Zelensky.  These are the key passages:
+
+---
+
+##### July 25 Call, Snippet 1
+
+<img src="assets/img/july_25/snippet_1.png" alt="July 25 Readout" height="40%" width="40%">
+
+---
+
+##### July 25 Call, Snippet 2
+
+<img src="assets/img/july_25/snippet_2.png" alt="July 25 Readout" height="40%" width="40%">
+
+---
+
+##### July 25 Call, Snippet 1
+
+<img src="assets/img/july_25/snippet_3.png" alt="July 25 Readout" height="40%" width="40%">
 
 ---
 
