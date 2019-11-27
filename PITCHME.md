@@ -187,6 +187,10 @@ The Ukrainians knew about a demand for announcement of investigations into Buris
 <img src="assets/img/freeze/snippet_2.png" alt="July 25 Readout" height="40%" width="40%">
 @divend
 
++++
+
+[Source](https://intelligence.house.gov/uploadedfiles/sandy_final_redacted.pdf)
+
 ---
 
 
