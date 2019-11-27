@@ -214,10 +214,11 @@ What did they say?
 
 Vindman Testimony:
 
-![Video](https://www.youtube.com/embed/GqRfRrhtAZs?start=5694&end=5758)
+![Video](https://www.youtube.com/embed/GqRfRrhtAZs?start=5694&end=5757)
 
 Note:
 
+In the July 10 meeting, Sondland told the Ukrainian rep "you get a meeting when you announce these investigations."
 
 ---
 
@@ -227,13 +228,13 @@ Hill Testimony:
 
 ![Video](https://www.youtube.com/embed/MpTIb_HubrY?start=8878&end=9035)
 
----
+Note:
 
-##### The July 10 Meeting Conclusions
-
-Sondland told Ukrainians about investigations "deliverable" being required for meeting with Trump on July 10, and there was an agreement with Chief of Staff Mick Mulvaney.
+Hill corroborates the messages Sondland sent to Ukraine, and testifies that Bolton knew the arrangement was improper; a "drug deal" that also involved White House Chief-of-staff Mick Mulvaney.
 
 The Ukrainians knew about a demand for announcement of investigations into Burisma to get a White House meeting.
+
+Now, we get to the aid freeze, the famous July 25 phone call, and "what Trump really cared about".
 
 ---
 
@@ -257,6 +258,11 @@ The Ukrainians knew about a demand for announcement of investigations into Buris
 <img src="assets/img/freeze/snippet_2.png" alt="July 25 Readout" height="40%" width="40%">
 @divend
 
+Note:
+
+From house intelligence testimony, we know Mulvaney froze the $400 in congressionally-approved Ukraine aid in July.  (Source in the slides, shared at the end.)
+
+Then, the famouse call.
 +++
 
 [Source](https://intelligence.house.gov/uploadedfiles/sandy_final_redacted.pdf)
@@ -265,7 +271,11 @@ The Ukrainians knew about a demand for announcement of investigations into Buris
 
 ##### July 25 Call
 
-On July 25, a call occurred between President Trump and the President of Ukraine, Zelensky.  These are the key passages:
+On July 25, a call occurred between President Trump and the President of Ukraine, Zelensky.
+
+Note:
+
+(Read slide)
 
 ---
 
@@ -273,11 +283,21 @@ On July 25, a call occurred between President Trump and the President of Ukraine
 
 <img src="assets/img/july_25_call/first_page.png" alt="July 25 Readout" height="40%" width="40%">
 
+Note:
+
+It is four pages, the first being this one.
+
 ---
 
 ##### July 25 Call, Snippet 1
 
 <img src="assets/img/july_25_call/snippet_1.png" alt="July 25 Readout" height="80%" width="80%">
+
+Note:
+
+Zelensky: We are almost ready to buy more Javelins for defense purposes.
+
+Trump: I would like you to do us a favor though... Trump mentions "crowdstrike" and "the server".
 
 ---
 
@@ -285,11 +305,23 @@ On July 25, a call occurred between President Trump and the President of Ukraine
 
 <img src="assets/img/july_25_call/snippet_2.png" alt="July 25 Readout" height="70%" width="70%">
 
+Note:
+
+Later, "Giuliani is a highly respected man."  and "If you could speak with him that would be great."
+
+He specifically names Joe Biden: "The other thing, there's a lot of talk about Biden's son, that he stopped the prosecution" and "whatever you can do with the attorney general would be great."
+
 ---
 
 ##### July 25 Call, Snippet 3
 
 <img src="assets/img/july_25_call/snippet_3.png" alt="July 25 Readout" height="80%" width="80%">
+
+Note:
+
+Finally, "I will have Mr Giuliani give you a call."
+
+So, was Trump concerned about Ukraine?  Was Trump concerned about Biden?  Whose interests mattered to him?  David Holmes had a meal with Sondland and asked.
 
 ---
 
@@ -297,6 +329,18 @@ On July 25, a call occurred between President Trump and the President of Ukraine
 
 Holmes testimony:
 ![Video](https://www.youtube.com/embed/MpTIb_HubrY?start=5098&end=5135)
+
+Note:
+
+Trump cared about "big stuff that benefis the President, like the Biden investigation that Giuliani was pushing."
+
+"stuff that benefits the President" _is_ "personally valuable".  Also, Trump pointed Zelensky at Giuliani, who was pushing "the Biden investigation".
+
+This is pretty clear-cut: "talk to my man, who is pushing the investigation that benefits me.  Also, I don't give a shit about Ukraine.  Then you get your meeting."
+
+There aren't many ways to make it _more_ obvious, because it's soliciting a bribe and you just can't shout that for everyone to know.
+
+But:
 
 +++
 
@@ -328,19 +372,13 @@ TO OTHER TOPICS.
 
 ---
 
-##### The July 25/26 conclusions
-
-In response to President Zelensky talking about Javelin missles, President Trump said "I would like you to do us a favor though", and brought up 3 key topics:
-
-1. Crowdstrike, "the server"
-2. "If you could speak with him [Rudy,] that would be great"
-3. "look into" Vice President Biden stopping a prosecution related to his son
-
----
-
 Aside from the White House meeting, what about the withheld aid?
 
 Was that withheld to seek a thing of value?
+
+Note:
+
+(Read slide)
 
 ---
 
@@ -349,6 +387,12 @@ Was that withheld to seek a thing of value?
 Sondland says yes:
 
 ![Video](https://www.youtube.com/embed/EkN4P7R5stE?start=4409&end=4442)
+
+Note:
+
+So, Sondland says yes.
+
+Mulvaney placed the hold on the aid, and was the other part of the "drug deal".  What did he say?
 
 +++
 
@@ -375,9 +419,15 @@ MR. GIULIANI HAD DEMANDED.
 
 Mulvaney says yes:
 
-![Video](https://www.youtube.com/embed/LKRjDdIGWU4?start=144&end=162)
+![Video](https://www.youtube.com/embed/LKRjDdIGWU4?start=144&end=163)
 
 Press Conference, Oct 17
+
+Note:
+
+That's pretty direct.  Mulvaney has since walked that statement back, because it's close to saying "yes we did it"; more on that later.
+
+Did the Ukrainians know the aid was conditioned on investigations? On July 25th they were curious:
 
 +++
 
@@ -404,6 +454,10 @@ Cooper's Testimony:
 
 ![Video](https://www.youtube.com/embed/6cblWMEm_e4?start=2400&end=2412)
 
+Note:
+
+And Sondland _told a senior Ukrainian official_ the aid was conditioned on investigations.
+
 ---
 
 ##### Did the Ukrainians know about the this-for-that exchange?
@@ -412,6 +466,12 @@ Morrison's Testimony:
 
 ![Video](https://www.youtube.com/embed/HAI39mb3QaI?start=5516&end=5535)
 (September meeting with Yermak)
+
+Note:
+
+That's pretty direct.
+
+By this point, thinge were getting tense.
 
 +++
 
@@ -441,6 +501,18 @@ LIFTED."
  * Sept 10: Bolton Resigns
  * Sept 11: Aid released
 
+Note:
+
+A listener on the July 25 call filed a complaint on August 12, claiming the actions on the call were improper.
+
+On July 28, Politico published the fact that the aid was held up.
+
+And in a very tense three days,
+
+First Congress received notice of the complaint and announced investigations
+Then the next day "I won't be part of this drug deal" Bolton resigned/was dismissed
+Then the next day the aid was released.
+
 ---
 
 #### Three claims revisited
@@ -451,7 +523,7 @@ LIFTED."
 
 But the thing must be _personally_ valuable, not just valuable overall, thus:
 
-4. the investigations must also not be principally for the President's benefit.
+4. the investigations must also be primarily for the President's benefit.
 
 ---
 
@@ -463,7 +535,7 @@ In September, Sondland told President Zelensky's aide (Yermak) "announce the inv
 
 Those facts substantiate 1, 2, and 3; Trump sought/demanded indirectly (through other people) something he wanted in exchange for official acts.
 
-But were the investigations primarily valuable to Trump?  Giuliani thought so
+But were the investigations primarily valuable to Trump?  Giuliani thought so.
 
 ---
 
@@ -472,6 +544,10 @@ But were the investigations primarily valuable to Trump?  Giuliani thought so
 Giuliani was planning in May to go to Ukraine, but scrapped the trip due to controversy.
 
 <img src="assets/img/giuliani/snippet_1.png" alt="" height="80%" width="80%">
+
+Note:
+
+(Read title, then read second para)
 
 +++
 
@@ -483,6 +559,10 @@ Giuliani was planning in May to go to Ukraine, but scrapped the trip due to cont
 
 <img src="assets/img/giuliani/snippet_2.png" alt="" height="80%" width="80%">
 
+Note:
+
+(Read first para)
+
 +++
 
 [Source](https://www.nytimes.com/2019/05/09/us/politics/giuliani-ukraine-trump.html)
@@ -493,6 +573,12 @@ Giuliani was planning in May to go to Ukraine, but scrapped the trip due to cont
 
 <img src="assets/img/giuliani/snippet_3.png" alt="" height="80%" width="80%">
 
+Note:
+
+(Read all)
+
+What about the trips Giuliani eventually did make?  His defense is... spotty.
+
 +++
 
 [Source](https://www.nytimes.com/2019/05/09/us/politics/giuliani-ukraine-trump.html)
@@ -501,7 +587,11 @@ Giuliani was planning in May to go to Ukraine, but scrapped the trip due to cont
 
 #### Giuliani's account of his actual trip is uneven
 
-![Video](https://www.youtube.com/embed/q6EHQKL2wdo?end=32)
+![Video](https://www.youtube.com/embed/q6EHQKL2wdo?end=33)
+
+Note:
+
+And Trump has moved to open channels to advocate for investigations.
 
 ---
 
@@ -509,9 +599,25 @@ Giuliani was planning in May to go to Ukraine, but scrapped the trip due to cont
 
 ![Video](https://www.youtube.com/embed/NHKWusypmpc?start=9&end=47)
 
+
+Note:
+
+(video)
+
+Does this primarily benefit Trump?
+
 ---
 
 It is plain Trump benefits from saying "my primary political opponents is now under investigation by Ukraine/China", because it makes his opponent less electable.
+
+It is plain that a story of "Russia did not intervene for Trump, Ukraine framed them" is good for Trump, because it removes a question around how legitimate his win was (and what it means when Russia supports you).
+
+Note:
+(Read slide)
+
+This is still contrary to what US Intel holds about the 2016 election.  They say Russia did it.
+
+What do Republicans say?
 
 ---
 
@@ -523,11 +629,18 @@ It is plain Trump benefits from saying "my primary political opponents is now un
  * "Just concerned about corruption"
  * "Crowdstrike" concern was legitimate
 
+Note:
+
+(Read slide)
+
+Let's evaluate these in order.
+
 ---
 
 #### Prosecutor Shokin was corrupt
 
 <img src="assets/img/counterarguments/shokin_corrupt.png" alt="" height="80%" width="80%">
+
 
 +++
 
