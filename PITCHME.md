@@ -372,10 +372,26 @@ LIFTED."
 
 ---
 
-##### July 25 Call, Snippet 3
+#### Three claims revisited
 
-<img src="assets/img/congressional_investigation/announcement.png" alt="Announcement" height="80%" width="80%">
+1. Trump sought/demanded an exchange of
+2. an official act (white house meeting OR Ukraine military aid)
+3. for a thing of value (investigations)
 
-+++
+But the thing must be _personally_ valuable, not just valuable overall, thus:
+
+4. the investigations must also not be principally for the President's benefit.
+
+---
+
+#### Summary so far
+
+For White House meetings, Sondland flatly said "Was there a quid pro quo?  The answer is yes." and indicated Rudy Giuliani as the primary messenger.
+
+In September, Sondland told President Zelensky's aide (Yermak) "announce the investigations to get the aid."
+
+Those facts substantiate 1, 2, and 3; Trump sought/demanded indirectly (through other people) something he wanted in exchange for official acts.
+
+But were the investigations primarily valuable to Trump?
 
 ---
