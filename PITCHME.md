@@ -78,9 +78,9 @@ For example, if a teacher says "sleep with me to pass the class" and the student
 
 ---
 
-#### What are the key events?
+#### Key events
 
-##### Phase 1: Spring + Summer 2019
+**Phase 1: Spring + Summer 2019**
 
  * "Irregular" channels
  * Pressure for "investigations" to get white house visit
