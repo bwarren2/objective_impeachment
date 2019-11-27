@@ -43,11 +43,14 @@ It is written for unbiased presentation, without presuming preexisting knowledge
 ### What we will cover
 
 Part 1. The impeachment case, with requirements, facts, and testimony
+
 Part 2. Counterarguments made by Republicans
 
 ---
 
-### Part 1: Did Donald Trump seek a thing of value in return for being influenced in the performance of an official act?
+### Part 1:
+
+Did Donald Trump seek a thing of value in return for being influenced in the performance of an official act?
 
 ---
 
