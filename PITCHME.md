@@ -580,3 +580,47 @@ Neither of these addresses systematic Ukrainian corruption.
  *  ~~"Just concerned about corruption"~~
 
 5. "Crowdstrike" concern was legitimate
+
+Note:
+
+Crowdstrike is a cybersecurity firm partially owned by a rich Russian.  It is involved in a conspiracy theory claiming that Ukraine interfered in the 2016 election and framed Russia for it.
+
+---
+
+#### "Crowdstrike theory" is Russian propaganda
+
+![Video](https://www.youtube.com/embed/MpTIb_HubrY?start=6177&end=6342)
+
+---
+
+Where does this leave us?
+
+---
+
+Trump's coconspirators openly admittedly that a WH visit and foreign aid were held up to induce investigations into 2016 interference and Joe Biden.  Sondland said "Was there a quid pro quo?  The answer is yes."
+
+---
+
+The investigations Trump sought had nothing to do with Ukrainian corruption, but were the two _most useful_ to Trump.
+
+One undermined US Intelligence's conclusion that Russia intervened to support Trump.
+
+The other painted Trump's primary political rival as corrupt, contrary to all reports that the removed prosecutor was corrupt.
+
+---
+
+Innocent people don't:
+ * block witnesses from testifying,
+ * withhold documents,
+ * set up backchannels through their personal lawyer
+ * parrot propaganda from Russian Security Services
+
+All of which the Trump administration has done.
+
+---
+
+President Trump violated the Constitution, and committed a crime the Constitution specifically names as grounds for removal.
+
+If the US Constitution matters, Trump is guilty.
+
+---
