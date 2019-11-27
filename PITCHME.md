@@ -80,7 +80,7 @@ For example, if a teacher says "sleep with me to pass the class" and the student
 
 #### Key events
 
-**Phase 1: Spring + Summer 2019**
+**Phase 1: Up to July 2019**
 
  * "Irregular" channels
  * Pressure for "investigations" to get white house visit
@@ -159,6 +159,24 @@ Hill Testimony:
 
 ---
 
+#### Key events
+
+**Phase 2: Spring + Summer 2019**
+
+ * July 12 Ukraine aid is frozen
+ * July 25 Call
+ * July 26 Sondland meeting
+
+---
+
+##### Aid frozen by Chief of Staff for President
+
+<img src="assets/img/freeze/snippet_1.png" alt="July 25 Readout" height="40%" width="40%">
+<img src="assets/img/freeze/snippet_2.png" alt="July 25 Readout" height="40%" width="40%">
+
+---
+
+
 ##### The July 10 Meeting Conclusions
 
 Sondland told Ukrainians about investigations "deliverable" being required for meeting with Trump on July 10, and there was an agreement with Chief of Staff Mick Mulvaney.
@@ -166,6 +184,7 @@ Sondland told Ukrainians about investigations "deliverable" being required for m
 The Ukrainians knew about a demand for announcement of investigations into Burisma to get a White House meeting.
 
 ---
+
 
 ##### July 25 Call
 
