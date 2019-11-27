@@ -1,6 +1,6 @@
 ## An Evidence-Based Impeachment Guide
 
----
++++
 
 This is an non-partisan, definition-and-evidence summary of the current impeachment case against Donald Trump.
 
@@ -136,7 +136,7 @@ Sondland, Volker, Giuliani, and Mulvaney were in a diplomatic backchannel unacco
 
 On July 10, there was an especially controversial meeting between US staff and a Ukrainian representative.
 
-This is the meeting where the "I am not of whatever drug deal Mulvaney and Sondland are cooking up" quote comes from.
+This is the meeting where the "I am not a part of whatever drug deal Mulvaney and Sondland are cooking up" quote comes from.
 
 ---
 
@@ -392,6 +392,36 @@ In September, Sondland told President Zelensky's aide (Yermak) "announce the inv
 
 Those facts substantiate 1, 2, and 3; Trump sought/demanded indirectly (through other people) something he wanted in exchange for official acts.
 
-But were the investigations primarily valuable to Trump?
+But were the investigations primarily valuable to Trump?  Giuliani thought so
+
+---
+
+#### May 9 2019 NYT story
+
+<img src="assets/img/giuliani/snippet_1.png" alt="" height="80%" width="80%">
+
++++
+
+[Source](https://www.nytimes.com/2019/05/09/us/politics/giuliani-ukraine-trump.html)
+
+---
+
+#### May 9 2019 NYT story
+
+<img src="assets/img/giuliani/snippet_2.png" alt="" height="80%" width="80%">
+
++++
+
+[Source](https://www.nytimes.com/2019/05/09/us/politics/giuliani-ukraine-trump.html)
+
+---
+
+#### May 9 2019 NYT story
+
+<img src="assets/img/giuliani/snippet_3.png" alt="" height="80%" width="80%">
+
++++
+
+[Source](https://www.nytimes.com/2019/05/09/us/politics/giuliani-ukraine-trump.html)
 
 ---
