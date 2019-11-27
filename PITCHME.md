@@ -171,9 +171,13 @@ Hill Testimony:
 
 ##### Aid frozen by Chief of Staff for President
 
+@div[top]
 <img src="assets/img/freeze/snippet_1.png" alt="July 25 Readout" height="40%" width="40%">
-<img src="assets/img/freeze/snippet_2.png" alt="July 25 Readout" height="40%" width="40%">
+@divend
 
+@div[top]
+<img src="assets/img/freeze/snippet_2.png" alt="July 25 Readout" height="40%" width="40%">
+@divend
 ---
 
 
