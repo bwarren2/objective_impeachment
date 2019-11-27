@@ -70,11 +70,11 @@ Without the "thing of value" that is not part of his job, there is no bribery.
 
 ---
 
-(But note: the transaction doesn't have to go through.)
+But note: the transaction doesn't have to go through.
 
-Note:
+The demand itself is sufficient.
 
-The demand itself is sufficient.  For example, if a teacher says "sleep with me to pass the class" and the student calls the cops, it doesn't matter if no sex happened; the solicitation itself is illegal.)
+For example, if a teacher says "sleep with me to pass the class" and the student calls the cops, it doesn't matter if no sex happened; the solicitation itself is illegal.)
 
 ---
 
