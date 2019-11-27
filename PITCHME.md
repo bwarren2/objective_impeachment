@@ -359,3 +359,23 @@ A CONDITION OF HAVING THE AID
 LIFTED."
 
 ---
+
+#### Key events
+
+**Phase 3: Investigations starting**
+
+ * August 12: Whistleblower files complaint
+ * August 28: [Politico](https://www.politico.com/story/2019/08/28/trump-ukraine-military-aid-russia-1689531) breaks news on aid withholding
+ * Sept 9: Congress told of whistleblower complaint, announces inquiry
+ * Sept 10: Bolton Resigns
+ * Sept 11: Aid released
+
+---
+
+##### July 25 Call, Snippet 3
+
+<img src="assets/img/congressional_investigation/announcement.png" alt="Announcement" height="80%" width="80%">
+
++++
+
+---
