@@ -30,7 +30,7 @@ It is written for unbiased presentation, without presuming preexisting knowledge
 ...
 " - [US Code § 201](https://www.law.cornell.edu/uscode/text/18/201)
 
----
++++
 
 ### Which means
 
@@ -73,7 +73,7 @@ But note: the transaction doesn't have to go through.
 
 The demand itself is sufficient.
 
-For example, if a teacher says "sleep with me to pass the class" and the student calls the cops, it doesn't matter if no sex happened; the solicitation itself is illegal.
+For example, if a teacher says "if you want to pass this class you'll sleep with me" and the student calls the cops, it doesn't matter if sex happened; the solicitation itself is illegal.
 
 ---
 
@@ -444,7 +444,7 @@ It is plain Trump benefits from saying "my primary political opponents is now un
 
 ---
 
-# Republican Counterarguments
+##### Republican Counterarguments
 
 1. Biden pressuring for Shokin's removal was corrupt
 2. No harm, no foul: aid was released
@@ -454,7 +454,7 @@ It is plain Trump benefits from saying "my primary political opponents is now un
 
 ---
 
-# Prosecutor Shokin was corrupt
+#### Prosecutor Shokin was corrupt
 
 <img src="assets/img/counterarguments/shokin_corrupt.png" alt="" height="80%" width="80%">
 
