@@ -187,7 +187,7 @@ On July 25, a call occurred between President Trump and the President of Ukraine
 
 ##### July 25 Call, Snippet 2
 
-<img src="assets/img/july_25_call/snippet_2.png" alt="July 25 Readout" height="80%" width="80%">
+<img src="assets/img/july_25_call/snippet_2.png" alt="July 25 Readout" height="70%" width="70%">
 
 ---
 
