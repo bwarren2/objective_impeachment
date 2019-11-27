@@ -128,11 +128,13 @@ Vindman Testimony:
 
 Sondland told Ukrainians about investigations "deliverable" being required for meeting with Trump on July 10.
 
----?image=assets/img/july_25_call.png&size=auto 50%
+---
 
 ## July 25 Call
 
-<!-- ![Logo](assets/img/july_25_call.png) -->
+@div[left-50]
+![Logo](assets/img/july_25_call.png)
+@divend
 
 ---
 
