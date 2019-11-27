@@ -144,9 +144,19 @@ Vindman Testimony:
 
 ---
 
+##### July 10 Meeting, 2
+
+Hill Testimony:
+
+![Video](https://www.youtube.com/embed/MpTIb_HubrY?start=8878&end=9035)
+
+---
+
 ##### The July 10 Meeting Conclusions
 
-Sondland told Ukrainians about investigations "deliverable" being required for meeting with Trump on July 10.
+Sondland told Ukrainians about investigations "deliverable" being required for meeting with Trump on July 10, and there was an agreement with Chief of Staff Mick Mulvaney.
+
+The Ukrainians knew about a demand for announcement of investigations into Burisma to get a White House meeting.
 
 ---
 
