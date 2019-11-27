@@ -216,20 +216,18 @@ On July 25, a call occurred between President Trump and the President of Ukraine
 
 ---
 
-##### July 25 Call, Snippet 1
+##### July 25 Call, Snippet 3
 
 <img src="assets/img/july_25_call/snippet_3.png" alt="July 25 Readout" height="80%" width="80%">
 
 ---
 
-##### July 26th
+##### Did Trump expect a Biden investigation?
 
 Holmes testimony:
 ![Video](https://www.youtube.com/embed/MpTIb_HubrY?start=5098&end=5135)
 
 +++
-
-##### Sondland: Was the aid withheld to induce investigation announcement?
 
 I TOOK THE OPPORTUNITY TO ASK
 HIM FOR HIS CANDID IMPRESSION OF
@@ -275,15 +273,15 @@ Was that withheld to seek a thing of value?
 
 ---
 
-##### Sondland: Was the aid withheld to induce investigation announcement?
+##### Was the aid withheld to induce investigation announcement?
 
-Sondland Says yes:
+Sondland says yes:
 
 ![Video](https://www.youtube.com/embed/EkN4P7R5stE?start=4409&end=4442)
 
 +++
 
-##### Sondland: Was the aid withheld to induce investigation announcement?
+##### Was the aid withheld to induce investigation announcement?
 
 I TRIED DILIGENTLY TO ASK WHY
 THE AID WAS SUSPENDED BUT I
@@ -302,17 +300,17 @@ MR. GIULIANI HAD DEMANDED.
 
 ---
 
-##### Mulvaney:  Was the aid withheld to induce investigation announcement?
+##### Was the aid withheld to induce investigation announcement?
 
-Mulvaney admits it:
+Mulvaney says yes:
 
-![Video](https://www.youtube.com/embed/LKRjDdIGWU4?start=144&end=165)
+![Video](https://www.youtube.com/embed/LKRjDdIGWU4?start=144&end=162)
 
 Press Conference, Oct 17
 
 +++
 
-##### Mulvaney: Was the aid withheld to induce investigation announcement?
+##### Was the aid withheld to induce investigation announcement?
 
 
 report demand for an investigation into
@@ -333,7 +331,7 @@ flowed by the way there was a report
 
 Cooper's Testimony:
 
-![Video](https://www.youtube.com/embed/6cblWMEm_e4?start=2400&end=2414)
+![Video](https://www.youtube.com/embed/6cblWMEm_e4?start=2400&end=2412)
 
 ---
 
@@ -341,7 +339,7 @@ Cooper's Testimony:
 
 Morrison's Testimony:
 
-![Video](https://www.youtube.com/embed/HAI39mb3QaI?start=5516&end=5536)
+![Video](https://www.youtube.com/embed/HAI39mb3QaI?start=5516&end=5535)
 (September meeting with Yermak)
 
 +++
