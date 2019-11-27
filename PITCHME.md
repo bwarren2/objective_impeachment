@@ -483,3 +483,78 @@ It is plain Trump benefits from saying "my primary political opponents is now un
 [source](https://www.bloomberg.com/news/articles/2019-05-07/timeline-in-ukraine-probe-casts-doubt-on-giuliani-s-biden-claim)
 
 ---
+
+##### Republican Counterarguments
+
+~~1. Biden pressuring for Shokin's removal was corrupt~~
+2. No harm, no foul: aid was released
+3. No harm, no foul: Ukraine did not know aid was blocked
+4. "Just concerned about corruption"
+5. "Crowdstrike" concern was legitimate
+
+---
+
+### Just solicitation is illegal
+
+
+"***Whoever"***—
+...
+
+2. "***being a public official"*** or person selected to be a public official, "***directly or indirectly, corruptly demands, seeks,"*** receives, accepts, or agrees to receive or accept "***anything of value personally"*** or for any other person or entity, "***in return for:"***
+
+"***a. being influenced in the performance of any official act;"***
+
+...
+" - [US Code § 201](https://www.law.cornell.edu/uscode/text/18/201)
+
+Note:
+
+Just _seeking_ payment via "if you want me to approve your application you will pay me $1000" as a public official is itself illegal.
+
+
+---
+
+### Aid released two days after investigations start
+
+Congress announced investigations into Giuliani and Trump pursuing politically-motivated investigations on September 9.
+
+The aid was released on Sept 11.
+
+This is like rescinding the demand after the cops announce an inquiry.
+
+
+---
+
+##### Republican Counterarguments
+
+~~1. Biden pressuring for Shokin's removal was corrupt~~
+~~2. No harm, no foul: aid was released~~
+3. No harm, no foul: Ukraine did not know aid was blocked
+4. "Just concerned about corruption"
+5. "Crowdstrike" concern was legitimate
+
+---
+
+### Just solicitation is illegal
+
+<img src="assets/img/counterarguments/aid_held_up.png" alt="" height="80%" width="80%">
+
+(And also Cooper's testimony "what is going on with the aid".)
+
+---
+
+##### Republican Counterarguments
+
+~~1. Biden pressuring for Shokin's removal was corrupt~~
+~~2. No harm, no foul: aid was released~~
+~~3. No harm, no foul: Ukraine did not know aid was blocked~~
+4. "Just concerned about corruption"
+5. "Crowdstrike" concern was legitimate
+
+---
+
+##### "Just concerned about corruption"
+
+"Corruption" is never mentioned on the July 25 call, or an earlier call with Trump and Zelensky.
+
+Giuliani was pursuing
