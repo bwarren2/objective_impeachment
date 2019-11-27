@@ -1,10 +1,12 @@
 ## An Evidence-Based Impeachment Guide
 
-+++
+Note:
 
 This is an non-partisan, definition-and-evidence summary of the current impeachment case against Donald Trump.
 
-It is written for unbiased presentation, without presuming preexisting knowledge.
+It is written without presuming preexisting knowledge.
+
+Articles of Impeachment are being drawn up against President Trump.  What does that mean?  I'll pull out the relevant definition.
 
 ---
 
@@ -14,6 +16,14 @@ It is written for unbiased presentation, without presuming preexisting knowledge
 "***The President***, Vice President and all civil Officers of the United States, ***shall be removed from Office on Impeachment for, and Conviction of***, Treason, ***Bribery***, or other high Crimes and Misdemeanors." - [US Constitution, Article 2, Section 4.](https://www.archives.gov/founding-docs/constitution-transcript#toc-section-4--2)
 
 (Emphasis mine)
+
+Note:
+
+"The President shall be removed from office on Impeachment for, and conviction of, Bribery."
+
+We don't need to debate "High Crimes and Misdemeanors" if the crime is named in the Constition.
+
+What does bribery mean?
 
 ---
 
@@ -30,13 +40,17 @@ It is written for unbiased presentation, without presuming preexisting knowledge
 ...
 " - [US Code § 201](https://www.law.cornell.edu/uscode/text/18/201)
 
-+++
+Note:
 
-### Which means
+"Whoever, being a public official, directly or indirectly corruptly demands or seeks anything of value personally in return for being influences in the performance of an official act"
 
-"The President shall be removed on impeachment and conviction" of "directly or indirectly demanding anything of value personally in exchange for being influenced in the performance of an official act".
+taken together,
+
+"The President shall be removed on impeachment and conviction" of directly or indirectly demanding anything of value personally in exchange for being influenced in the performance of an official act".
 
 ("Quid pro quo" means "this for that", and describes the "exchange" part.)
+
+So we will lay out two sides of the case.
 
 ---
 
@@ -44,13 +58,25 @@ It is written for unbiased presentation, without presuming preexisting knowledge
 
 Part 1. The impeachment case, with requirements, facts, and testimony
 
-Part 2. Counterarguments made by Republicans
+Part 2. Counterarguments currently made
+
+Note:
+
+1. The affirmative case for impeachment, with required claims, facts, and testimony.
+
+2. The counterarguments made by Republicans.
+
+So, part 1:
 
 ---
 
 ### Part 1:
 
 Did Donald Trump seek a thing of value in return for being influenced in the performance of an official act?
+
+Note:
+
+Did Donald Trump seek a thing of value in return for being influenced in the performance of an official act?  Three things need to be true.
 
 ---
 
@@ -60,12 +86,20 @@ Did Donald Trump seek a thing of value in return for being influenced in the per
 2. an official act
 3. for a thing of value
 
+Note:
+
+(Read slide)
+
 ---
 
 Without _all three_ of those things, there is no bribery.
 
 Without seeking/a demand, there is no bribery.
 Without the "thing of value" that is not part of his job, there is no bribery.
+
+Note:
+
+(Read slide)
 
 ---
 
@@ -74,6 +108,12 @@ But note: the transaction doesn't have to go through.
 The demand itself is sufficient.
 
 For example, if a teacher says "if you want to pass this class you'll sleep with me" and the student calls the cops, it doesn't matter if sex happened; the solicitation itself is illegal.
+
+Note:
+
+(Read slide)
+
+Now, what actually happened?
 
 ---
 
