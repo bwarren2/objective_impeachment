@@ -140,6 +140,10 @@ Now, what actually happened?
 
 ![Video](https://www.youtube.com/embed/cdXAhuHhqUY?start=5503&end=5540)
 
+Note:
+
+What did we just hear?
+
 +++
 
 ##### Taylor: Who are the actors?
@@ -163,15 +167,27 @@ CONVERSATIONS.
 
 ---
 
-### "Irregular" Diplomatic Channels Conclusion:
+### "Irregular" Diplomatic Channels
 
-Sondland, Volker, Giuliani, and Mulvaney were in a diplomatic backchannel unaccountable to Congress.
+Sondland, Volker, Giuliani, and Mulvaney were in an "irregular" diplomatic channel unaccountable to Congress.  What did they think was happening?
+
+Note:
+
+(Read slide)
 
 ---
 
 ##### Sondland's Perspective
 
 ![Video](https://www.youtube.com/embed/EkN4P7R5stE?start=5554&end=5612)
+
+Note:
+
+Sondland flatly states "investigations into 2016 and Burisma were requirements for a White House visit".
+
+That is a requirement of a thing for an official act.  Was it thing of value?  We'll come back to that.
+
+This is a pretty black-and-white statement.  But there is more evidence from other witnesses.
 
 +++
 
@@ -185,6 +201,12 @@ On July 10, there was an especially controversial meeting between US staff and a
 
 This is the meeting where the "I am not a part of whatever drug deal Mulvaney and Sondland are cooking up" quote comes from.
 
+Note:
+
+(Read slide)
+
+What did they say?
+
 ---
 
 
@@ -193,6 +215,8 @@ This is the meeting where the "I am not a part of whatever drug deal Mulvaney an
 Vindman Testimony:
 
 ![Video](https://www.youtube.com/embed/GqRfRrhtAZs?start=5694&end=5758)
+
+Note:
 
 
 ---
