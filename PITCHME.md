@@ -132,9 +132,7 @@ Sondland told Ukrainians about investigations "deliverable" being required for m
 
 ## July 25 Call
 
-@div[auto]
-![Logo](assets/img/july_25_call.png)
-@divend
+<img src="assets/img/july_25_call.png" alt="July 25 Readout" height="40%" width="50%">
 
 ---
 
