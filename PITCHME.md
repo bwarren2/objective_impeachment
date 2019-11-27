@@ -446,5 +446,40 @@ It is plain Trump benefits from saying "my primary political opponents is now un
 
 # Republican Counterarguments
 
+1. Biden pressuring for Shokin's removal was corrupt
+2. No harm, no foul: aid was released
+3. No harm, no foul: Ukraine did not know aid was blocked
+4. "Just concerned about corruption"
+5. "Crowdstrike" concern was legitimate
 
+---
 
+# Prosecutor Shokin was corrupt
+
+<img src="assets/img/counterarguments/shokin_corrupt.png" alt="" height="80%" width="80%">
+
++++
+
+[source](https://m.facebook.com/usdos.ukraine/posts/10153248488506936)
+
+---
+
+# Prosecutor Shokin protected Burisma's owner, rather than prosecuting him
+
+<img src="assets/img/counterarguments/protecting_Mykola.png" alt="" height="80%" width="80%">
+
++++
+
+[source](https://www.rferl.org/a/ukraine-protest-prosecutor-shokin-dismissal/27639981.html)
+
+---
+
+# Ukrainians say Burisma investigation was already wound down
+
+<img src="assets/img/counterarguments/bloomberg_timeline.png" alt="" height="80%" width="80%">
+
++++
+
+[source](https://www.bloomberg.com/news/articles/2019-05-07/timeline-in-ukraine-probe-casts-doubt-on-giuliani-s-biden-claim)
+
+---
