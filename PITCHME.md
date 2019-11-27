@@ -535,9 +535,9 @@ This is like rescinding the demand after the cops announce an inquiry.
 
 ---
 
-### Just solicitation is illegal
+### The Ukrainians Asked About The Blocked Aid
 
-<img src="assets/img/counterarguments/aid_held_up.png" alt="" height="80%" width="80%">
+<img src="assets/img/counterarguments/aid_held_up.png" alt="" height="40%" width="40%">
 
 (And also Cooper's testimony "what is going on with the aid".)
 
@@ -557,4 +557,4 @@ This is like rescinding the demand after the cops announce an inquiry.
 
 "Corruption" is never mentioned on the July 25 call, or an earlier call with Trump and Zelensky.
 
-Giuliani was pursuing
+> "And I’m going to give them reasons why they shouldn’t stop it because that information will be very, very helpful to my client, and may turn out to be helpful to my government." - Rudy Giuliani
