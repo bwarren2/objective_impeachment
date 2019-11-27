@@ -398,6 +398,8 @@ But were the investigations primarily valuable to Trump?  Giuliani thought so
 
 #### May 9 2019 NYT story
 
+Giuliani was planning in May to go to Ukraine, but scrapped the trip due to controversy.
+
 <img src="assets/img/giuliani/snippet_1.png" alt="" height="80%" width="80%">
 
 +++
@@ -425,3 +427,9 @@ But were the investigations primarily valuable to Trump?  Giuliani thought so
 [Source](https://www.nytimes.com/2019/05/09/us/politics/giuliani-ukraine-trump.html)
 
 ---
+
+#### Giuliani's account of his actual trip is uneven.
+
+![Video](https://www.youtube.com/embed/q6EHQKL2wdo)
+
+
