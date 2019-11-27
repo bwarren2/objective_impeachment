@@ -763,7 +763,7 @@ Neither of these addresses systematic Ukrainian corruption.
  *  ~~No harm, no foul: Ukraine did not know aid was blocked~~
  *  ~~"Just concerned about corruption"~~
 
-5. "Crowdstrike" concern was legitimate
+ * "Crowdstrike" concern was legitimate
 
 Note:
 
