@@ -40,14 +40,21 @@ It is written for unbiased presentation, without presuming preexisting knowledge
 
 ---
 
-### Did Donald Trump seek a thing of value in return for being influenced in the performance of an official act?
+### What we will cover
+
+Part 1. The impeachment case, with requirements, facts, and testimony
+Part 2. Counterarguments made by Republicans
+
+---
+
+### Part 1: Did Donald Trump seek a thing of value in return for being influenced in the performance of an official act?
 
 ---
 
 ### Claims Required For Proof
 
 1. Trump sought/demanded an exchange of:
-2. an official act (dispensing Ukraine aid passed by Congress)
+2. an official act (white house meeting or dispensing Ukraine aid passed by Congress)
 3. for a thing of value ("investigations")
 4. that "investigations" were ***solely*** a thing of value personally, and ***not*** part of executing his job as President
 
@@ -58,7 +65,7 @@ Without _all four_ of those things, there is no bribery.
 Without seeking/a demand, there is no bribery.
 Without the "thing of value" that is not part of his job, there is no bribery.
 
-(But note: the transaction doesn't have to go through.  The demand itself is sufficient.)
+(But note: the transaction doesn't have to go through.  The demand itself is sufficient.  For example, if a teacher says "sleep with me to pass the class" and the student calls the cops, it doesn't matter if no sex happened; the solicitation itself is illegal.)
 
 ---
 
