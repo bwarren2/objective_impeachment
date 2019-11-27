@@ -446,11 +446,11 @@ It is plain Trump benefits from saying "my primary political opponents is now un
 
 ##### Republican Counterarguments
 
-1. Biden pressuring for Shokin's removal was corrupt
-2. No harm, no foul: aid was released
-3. No harm, no foul: Ukraine did not know aid was blocked
-4. "Just concerned about corruption"
-5. "Crowdstrike" concern was legitimate
+ * Biden pressuring for Shokin's removal was corrupt
+ * No harm, no foul: aid was released
+ * No harm, no foul: Ukraine did not know aid was blocked
+ * "Just concerned about corruption"
+ * "Crowdstrike" concern was legitimate
 
 ---
 
@@ -486,12 +486,12 @@ It is plain Trump benefits from saying "my primary political opponents is now un
 
 ##### Republican Counterarguments
 
-~~1. Biden pressuring for Shokin's removal was corrupt~~
+ * ~~ Biden pressuring for Shokin's removal was corrupt~~
 
-2. No harm, no foul: aid was released
-3. No harm, no foul: Ukraine did not know aid was blocked
-4. "Just concerned about corruption"
-5. "Crowdstrike" concern was legitimate
+ * No harm, no foul: aid was released
+ * No harm, no foul: Ukraine did not know aid was blocked
+ * "Just concerned about corruption"
+ * "Crowdstrike" concern was legitimate
 
 ---
 
@@ -528,12 +528,12 @@ This is like rescinding the demand after the cops announce an inquiry.
 
 ##### Republican Counterarguments
 
-~~1. Biden pressuring for Shokin's removal was corrupt~~
-~~2. No harm, no foul: aid was released~~
+ * ~~ Biden pressuring for Shokin's removal was corrupt~~
+ * ~~ No harm, no foul: aid was released~~
 
-3. No harm, no foul: Ukraine did not know aid was blocked
-4. "Just concerned about corruption"
-5. "Crowdstrike" concern was legitimate
+ *  No harm, no foul: Ukraine did not know aid was blocked
+ *  "Just concerned about corruption"
+ *  "Crowdstrike" concern was legitimate
 
 ---
 
@@ -547,12 +547,12 @@ This is like rescinding the demand after the cops announce an inquiry.
 
 ##### Republican Counterarguments
 
-~~1. Biden pressuring for Shokin's removal was corrupt~~
-~~2. No harm, no foul: aid was released~~
-~~3. No harm, no foul: Ukraine did not know aid was blocked~~
+ * ~~ Biden pressuring for Shokin's removal was corrupt~~
+ * ~~ No harm, no foul: aid was released~~
+ * ~~ No harm, no foul: Ukraine did not know aid was blocked~~
 
-4. "Just concerned about corruption"
-5. "Crowdstrike" concern was legitimate
+ * "Just concerned about corruption"
+ * "Crowdstrike" concern was legitimate
 
 ---
 
