@@ -1,8 +1,8 @@
-## An Objective Impeachment Guide
+## An Evidence-Based Impeachment Guide
 
 ---
 
-This is an non-partisan, definition-and-evidence heavy summary of the current impeachment case against Donald Trump.
+This is an non-partisan, definition-and-evidence summary of the current impeachment case against Donald Trump.
 
 It is written for unbiased presentation, without presuming preexisting knowledge.
 
@@ -57,13 +57,12 @@ Did Donald Trump seek a thing of value in return for being influenced in the per
 ### Claims Required For Proof
 
 1. Trump sought/demanded an exchange of:
-2. an official act (white house meeting or dispensing Ukraine aid passed by Congress)
-3. for a thing of value ("investigations")
-4. that "investigations" were ***solely*** a thing of value personally, and ***not*** part of executing his job as President
+2. an official act
+3. for a thing of value
 
 ---
 
-Without _all four_ of those things, there is no bribery.
+Without _all three_ of those things, there is no bribery.
 
 Without seeking/a demand, there is no bribery.
 Without the "thing of value" that is not part of his job, there is no bribery.
@@ -260,6 +259,22 @@ TO OTHER TOPICS.
 
 ---
 
+##### The July 25/26 conclusions
+
+In response to President Zelensky talking about Javelin missles, President Trump said "I would like you to do us a favor though", and brought up 3 key topics:
+
+1. Crowdstrike, "the server"
+2. "If you could speak with him [Rudy,] that would be great"
+3. "look into" Vice President Biden stopping a prosecution related to his son
+
+---
+
+But what about the withheld aid?
+
+Was that withheld to seek a thing of value?
+
+---
+
 ##### Mulvaney:  Was the aid withheld to induce investigation announcement?
 
 Mulvaney's Press Conference, Oct 17:
@@ -312,8 +327,7 @@ MR. GIULIANI HAD DEMANDED.
 
 ---
 
-
-##### Morrison on Sondland: Was the aid withheld to induce investigation announcement?
+##### Did the Ukrainians know?
 
 Morrison's Testimony:
 
