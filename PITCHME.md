@@ -197,11 +197,11 @@ On July 25, a call occurred between President Trump and the President of Ukraine
 
 ---
 
-##### Holmes: Sondland said "big stuff that benefits the president, Biden investigaton"
+##### July 26th
 
-
+Holmes testimony:
 ![Video](https://www.youtube.com/embed/MpTIb_HubrY?start=5098&end=5135)
-(July 26th?)
+
 +++
 
 ##### Sondland: Was the aid withheld to induce investigation announcement?
@@ -236,7 +236,7 @@ TO OTHER TOPICS.
 
 ##### Mulvaney:  Was the aid withheld to induce investigation announcement?
 
-Mulvaney's Press Conference:
+Mulvaney's Press Conference, Oct 17:
 
 ![Video](https://www.youtube.com/embed/LKRjDdIGWU4?start=144&end=165)
 
