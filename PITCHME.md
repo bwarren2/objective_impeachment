@@ -193,16 +193,15 @@ The Ukrainians knew about a demand for announcement of investigations into Buris
 
 ---
 
-
 ##### July 25 Call
 
-<img src="assets/img/july_25_call/first_page.png" alt="July 25 Readout" height="40%" width="40%">
+On July 25, a call occurred between President Trump and the President of Ukraine, Zelensky.  These are the key passages:
 
 ---
 
 ##### July 25 Call
 
-On July 25, a call occurred between President Trump and the President of Ukraine, Zelensky.  These are the key passages:
+<img src="assets/img/july_25_call/first_page.png" alt="July 25 Readout" height="40%" width="40%">
 
 ---
 
