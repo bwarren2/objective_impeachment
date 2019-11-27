@@ -82,9 +82,11 @@ For example, if a teacher says "sleep with me to pass the class" and the student
 
 ##### Phase 1: Spring + Summer 2019
 
- * Phase 1: "Irregular" channels
- * Phase 1: Pressure for "investigations" to get white house visit
- * Phase 1: July 10 Meeting (Bolton, Hill, Vindman)
+ * "Irregular" channels
+ * Pressure for "investigations" to get white house visit
+ * July 10 Meeting (Bolton, Hill, Vindman)
+
+---
 
 
 ##### Taylor: Who are the actors?
