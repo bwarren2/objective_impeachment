@@ -428,8 +428,23 @@ Giuliani was planning in May to go to Ukraine, but scrapped the trip due to cont
 
 ---
 
-#### Giuliani's account of his actual trip is uneven.
+#### Giuliani's account of his actual trip is uneven
 
-![Video](https://www.youtube.com/embed/q6EHQKL2wdo)
+![Video](https://www.youtube.com/embed/q6EHQKL2wdo?end=32)
+
+---
+
+#### Trump openly calls for foreign governments to investigate Joe Biden
+
+![Video](https://www.youtube.com/embed/NHKWusypmpc?start=9&end=47)
+
+---
+
+It is plain Trump benefits from saying "my primary political opponents is now under investigation by Ukraine/China", because it makes his opponent less electable.
+
+---
+
+# Republican Counterarguments
+
 
 
