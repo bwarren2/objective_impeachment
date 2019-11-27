@@ -464,7 +464,7 @@ It is plain Trump benefits from saying "my primary political opponents is now un
 
 ---
 
-# Prosecutor Shokin protected Burisma's owner, rather than prosecuting him
+#### Prosecutor Shokin protected Burisma's owner, rather than prosecuting him
 
 <img src="assets/img/counterarguments/protecting_Mykola.png" alt="" height="80%" width="80%">
 
@@ -474,7 +474,7 @@ It is plain Trump benefits from saying "my primary political opponents is now un
 
 ---
 
-# Ukrainians say Burisma investigation was already wound down
+#### Ukrainians say Burisma investigation was already wound down
 
 <img src="assets/img/counterarguments/bloomberg_timeline.png" alt="" height="80%" width="80%">
 
