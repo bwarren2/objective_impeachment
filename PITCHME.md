@@ -269,40 +269,15 @@ In response to President Zelensky talking about Javelin missles, President Trump
 
 ---
 
-But what about the withheld aid?
+Aside from the White House meeting, what about the withheld aid?
 
 Was that withheld to seek a thing of value?
 
 ---
 
-##### Mulvaney:  Was the aid withheld to induce investigation announcement?
-
-Mulvaney's Press Conference, Oct 17:
-
-![Video](https://www.youtube.com/embed/LKRjDdIGWU4?start=144&end=165)
-
-+++
-
-##### Mulvaney: Was the aid withheld to induce investigation announcement?
-
-
-report demand for an investigation into
-the Democrats was part of the reason
-that he it was on to withhold funding to
-Ukraine we look back to what happened in
-2016
-
-certainly was was part of the thing that
-he was worried about in corruption with
-that nation and that is absolutely a
-broken yeah which which ultimately then
-flowed by the way there was a report
-
----
-
 ##### Sondland: Was the aid withheld to induce investigation announcement?
 
-Sondland Testimony:
+Sondland Says yes:
 
 ![Video](https://www.youtube.com/embed/EkN4P7R5stE?start=4409&end=4442)
 
@@ -327,12 +302,48 @@ MR. GIULIANI HAD DEMANDED.
 
 ---
 
-##### Did the Ukrainians know?
+##### Mulvaney:  Was the aid withheld to induce investigation announcement?
+
+Mulvaney admits it:
+
+![Video](https://www.youtube.com/embed/LKRjDdIGWU4?start=144&end=165)
+
+Press Conference, Oct 17
+
++++
+
+##### Mulvaney: Was the aid withheld to induce investigation announcement?
+
+
+report demand for an investigation into
+the Democrats was part of the reason
+that he it was on to withhold funding to
+Ukraine we look back to what happened in
+2016
+
+certainly was was part of the thing that
+he was worried about in corruption with
+that nation and that is absolutely a
+broken yeah which which ultimately then
+flowed by the way there was a report
+
+---
+
+##### Did the Ukrainians know about the withheld aid?
+
+Cooper's Testimony:
+
+![Video](https://www.youtube.com/embed/6cblWMEm_e4?start=2400&end=2414)
+
+---
+
+##### Did the Ukrainians know about the this-for-that exchange?
 
 Morrison's Testimony:
 
 ![Video](https://www.youtube.com/embed/HAI39mb3QaI?start=5516&end=5536)
 (September meeting with Yermak)
+
 +++
 
 ##### Morrison on Sondland: Was the aid withheld to induce investigation announcement?
@@ -350,8 +361,3 @@ A CONDITION OF HAVING THE AID
 LIFTED."
 
 ---
-
-
-
-
-
