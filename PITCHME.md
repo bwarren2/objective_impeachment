@@ -127,11 +127,18 @@ Now, what actually happened?
 
 ---
 
+##### This is William Taylor
+
+
+![Video](https://www.youtube.com/embed/cdXAhuHhqUY?start=5368&end=5405)
+
+---
+
 
 ##### Taylor: Who are the actors?
 
 
-![Video](https://www.youtube.com/embed/cdXAhuHhqUY?start=5503&end=5539)
+![Video](https://www.youtube.com/embed/cdXAhuHhqUY?start=5503&end=5540)
 
 +++
 
