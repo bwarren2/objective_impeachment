@@ -729,7 +729,7 @@ This is like rescinding the demand after the cops announce an inquiry; it doesn'
 
 <img src="assets/img/counterarguments/aid_held_up.png" alt="" height="40%" width="40%">
 
-(And also Cooper's testimony "what is going on with the aid", and Volker conveying the quid pro quo demand.)
+(And also Cooper's testimony "what is going on with the aid", and Sondland conveying the quid pro quo demand.)
 
 ---
 
