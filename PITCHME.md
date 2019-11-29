@@ -742,11 +742,6 @@ This is like rescinding the demand after the cops announce an inquiry; it doesn'
  * "Just concerned about corruption"
  * "Crowdstrike" concern was legitimate
 
-Note:
-
-(Read argument)
-
-But this is not how Rudy Giuliani described his interest in these investigations.
 
 ##### "Just concerned about corruption"
 
