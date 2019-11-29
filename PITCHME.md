@@ -326,7 +326,7 @@ So, was Trump concerned about Ukraine?  Was Trump concerned about Biden?  Whose 
 ##### Did Trump expect a Biden investigation?
 
 Holmes testimony:
-![Video](https://www.youtube.com/embed/MpTIb_HubrY?start=5098&end=5135)
+![Video](https://www.youtube.com/embed/MpTIb_HubrY?start=5098&end=5136)
 
 Note:
 
@@ -384,7 +384,7 @@ Note:
 
 Sondland says yes:
 
-![Video](https://www.youtube.com/embed/EkN4P7R5stE?start=4409&end=4442)
+![Video](https://www.youtube.com/embed/EkN4P7R5stE?start=4409&end=4443)
 
 Note:
 
@@ -521,7 +521,7 @@ Then the next day the aid was released.
 
 But the thing must be _personally_ valuable, not just valuable overall, thus:
 
-3b. the investigations must also be primarily for the President's benefit.
+ * the investigations must also be primarily for the President's benefit.
 
 ---
 
@@ -595,14 +595,16 @@ And Trump has moved to open channels to advocate for investigations.
 
 #### Trump openly calls for foreign governments to investigate Joe Biden
 
-![Video](https://www.youtube.com/embed/NHKWusypmpc?start=9&end=47)
+![Video](https://www.youtube.com/embed/NHKWusypmpc?start=9&end=48)
 
 
 Note:
 
 (video)
 
-Does this primarily benefit Trump?
+Take note: if you have a case with lots of evidence to make, you don't just keep repeating your desired conclusion, handwaving gossip about "it was just as bad".  You might for example, link your sources, edit for clarity, and maybe make slides.
+
+But a key question: Does this primarily benefit Trump?
 
 ---
 
@@ -613,13 +615,15 @@ Obviously, a story of "Russia did not intervene for Trump, Ukraine framed them" 
 Note:
 (Read slide)
 
-This is still contrary to what US Intel holds about the 2016 election.  They say Russia did it.
-
-What do Republicans say?
+This is still contrary to what US Intel holds about the 2016 election.  They say Russia did interfered, and that Ukraine did not.
 
 ---
 
 These are the two _most_ useful investigations for Trump, and they (tellingly) have nothing to do with getting Ukraine to make anticorruption reforms.
+
+Note:
+
+What do Republicans say?
 
 ---
 
