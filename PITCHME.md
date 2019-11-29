@@ -710,7 +710,7 @@ Congress announced investigations into Giuliani and Trump pursuing politically-m
 
 The aid was released on Sept 11.
 
-This is like rescinding the demand after the cops announce an inquiry.
+This is like rescinding the demand after the cops announce an inquiry; it doesn't undo the crime.
 
 ---
 
@@ -729,7 +729,7 @@ This is like rescinding the demand after the cops announce an inquiry.
 
 <img src="assets/img/counterarguments/aid_held_up.png" alt="" height="40%" width="40%">
 
-(And also Cooper's testimony "what is going on with the aid".)
+(And also Cooper's testimony "what is going on with the aid", and Volker conveying the quid pro quo demand.)
 
 ---
 
@@ -744,9 +744,17 @@ This is like rescinding the demand after the cops announce an inquiry.
 
 ---
 
+(Read argument)
+
+But this is not how Rudy Giuliani described his interest in these investigations.
+
 ##### "Just concerned about corruption"
 
 > "And I’m going to give them reasons why they shouldn’t stop it because that information will be very, very helpful to my client, and may turn out to be helpful to my government." - Rudy Giuliani
+
+Note:
+
+"We're just concerned about corruption" doesn't pass the smell test.
 
 ---
 
@@ -760,11 +768,19 @@ Neither of these addresses systematic Ukrainian corruption.
 
 The Trump administration has actually _cut_ anticorruption funds to Ukraine.
 
+Note:
+
+(Read slide.)
+
 ---
 
 ##### "Just concerned about corruption" but cut anticorruption funding
 
 <img src="assets/img/counterarguments/cut_funding.png" alt="" height="40%" width="40%">
+
+Note:
+
+So what is left?
 
 ---
 
