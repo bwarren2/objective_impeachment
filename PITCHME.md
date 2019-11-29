@@ -529,11 +529,11 @@ But the thing must be _personally_ valuable, not just valuable overall, thus:
 
 #### Summary so far
 
-For White House meetings, Sondland flatly said "Was there a quid pro quo?  The answer is yes." and indicated Rudy Giuliani as the primary messenger.
+Sondland: "There was a quid pro quo."  Rudy Giuliani was the primary messenger.
 
-In September, Sondland told President Zelensky's aide (Yermak) "announce the investigations to get the aid."
+Sondland told President Zelensky's assistant "announce the investigations to get the military aid."
 
-Those facts substantiate 1, 2, and 3; Trump sought/demanded indirectly (through other people) something he wanted in exchange for official acts.
+**This is claims 1-3.**
 
 But were the investigations primarily valuable to Trump?  Giuliani thought so.
 
@@ -608,9 +608,9 @@ Does this primarily benefit Trump?
 
 ---
 
-It is plain Trump benefits from saying "my primary political opponents is now under investigation by Ukraine/China", because it makes his opponent less electable.
+Obviously, Trump benefits from saying "my primary political opponents is now under investigation by Ukraine/China", because it makes his opponent less electable.
 
-It is plain that a story of "Russia did not intervene for Trump, Ukraine framed them" is good for Trump, because it removes a question around how legitimate his win was (and what it means when Russia supports you).
+Obviously, a story of "Russia did not intervene for Trump, Ukraine framed them" is good for Trump, because it removes a question around how legitimate his win was (and what it means when Russia supports you).
 
 Note:
 (Read slide)
@@ -618,6 +618,10 @@ Note:
 This is still contrary to what US Intel holds about the 2016 election.  They say Russia did it.
 
 What do Republicans say?
+
+---
+
+These are the two _most_ useful investigations for Trump, and they (tellingly) have nothing to do with getting Ukraine to make anticorruption reforms.
 
 ---
 
@@ -696,7 +700,6 @@ Note:
 
 Just _seeking_ payment via "if you want me to approve your application you will pay me $1000" as a public official is itself illegal.
 
-
 ---
 
 ### Aid released two days after investigations start
@@ -706,7 +709,6 @@ Congress announced investigations into Giuliani and Trump pursuing politically-m
 The aid was released on Sept 11.
 
 This is like rescinding the demand after the cops announce an inquiry.
-
 
 ---
 
@@ -753,6 +755,14 @@ The two possible investigations that are _most valuable_ to Trump are ones sayin
 Neither of these addresses systematic Ukrainian corruption.
 
 "Corruption" is not mentioned at all on the July 25 call, or an earlier call with Trump and Zelensky.
+
+The Trump administration has actually _cut_ anticorruption funds to Ukraine.
+
+---
+
+##### "Just concerned about corruption" but cut anticorruption funding
+
+<img src="assets/img/counterarguments/cut_funding.png" alt="" height="40%" width="40%">
 
 ---
 
@@ -803,8 +813,16 @@ All of which the Trump administration has done.
 
 ---
 
-President Trump violated the Constitution, and committed a crime the Constitution specifically names as grounds for removal.
+But this isn't about Trump, or Democrats, or Republicans.
 
-If the US Constitution matters, Trump is guilty.
+It's about corruption in the US.
+
+---
+
+If we don't punish abuse of office when it is so public and obvious, it will infest the system, because people will expect to get away with it.  After all, if public corruption is not punished, private corruption definitely won't be.
+
+---
+
+We need to maintain faith and respectability in our government by punishing misdeeds, and leaving a trustworthy system to our children.  Letting the rot set in is unacceptable.
 
 ---
