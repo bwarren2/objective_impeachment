@@ -72,7 +72,7 @@ So, part 1:
 
 ### Part 1:
 
-Did Donald Trump seek a thing of value in return for being influenced in the performance of an official act?
+Did Donald Trump seek something of personal value in return for official government policy?
 
 Note:
 
@@ -198,8 +198,6 @@ This is a pretty black-and-white statement.  But there is more evidence from oth
 ---
 
 On July 10, there was an especially controversial meeting between US staff and a Ukrainian representative.
-
-This is the meeting where the "I am not a part of whatever drug deal Mulvaney and Sondland are cooking up" quote comes from.
 
 Note:
 
@@ -469,7 +467,7 @@ Morrison's Testimony:
 
 Note:
 
-That's pretty direct.
+That's pretty direct.  This is the definition of a quid pro quo.
 
 By this point, thinge were getting tense.
 
@@ -523,7 +521,7 @@ Then the next day the aid was released.
 
 But the thing must be _personally_ valuable, not just valuable overall, thus:
 
-4. the investigations must also be primarily for the President's benefit.
+3b. the investigations must also be primarily for the President's benefit.
 
 ---
 
@@ -784,6 +782,10 @@ Crowdstrike is a cybersecurity firm partially owned by a rich Russian.  It is in
 #### "Crowdstrike theory" is Russian propaganda
 
 ![Video](https://www.youtube.com/embed/MpTIb_HubrY?start=6177&end=6342)
+
+Note:
+
+From the rest of Hill's and Taylor's testimony, the message is clear: support for Ukraine is important to US interests.  There is a hot war with Russia there, and we don't want to see foreign powers emboldened to attack allies of the US.
 
 ---
 
