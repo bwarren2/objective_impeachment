@@ -848,3 +848,11 @@ If we don't punish abuse of office when it is so public and obvious, it will inf
 We need to maintain faith and respectability in our government by punishing misdeeds, and leaving a trustworthy system to our children.  Letting the rot set in is unacceptable.
 
 ---
+
+---
+If you appreciated this video, please:
+
+* Watch it with someone
+* Share it with 2-3 people you think would benefit from it.  (Personal recommendations matter!)
+
+---
