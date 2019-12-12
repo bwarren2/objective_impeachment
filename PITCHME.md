@@ -1,12 +1,35 @@
-## An Evidence-Based Impeachment Guide
+## Impeachment with Older Relatives
 
 Note:
 
-This is an non-partisan, definition-and-evidence summary of the current impeachment case against Donald Trump.
 
-It is written without presuming preexisting knowledge.
+---
 
-Articles of Impeachment are being drawn up against President Trump.  What does that mean?  I'll pull out the relevant definition.
+##### The Problem
+
+The news stopped being the news a long time ago; it mostly feels like opinion and partisan talking points.
+
+Watching different media makes it feel like we live on different worlds.
+
+I feel like our current events on impeachment are really important, and I want to talk about it (not talking points) with you.
+
+Note:
+
+(Read the slide.)
+
+---
+
+##### The Solution
+
+I pulled together a bunch of sources to paint the big picture as best I understand it; call it "journalism".
+
+We've watched movies before, so I know we can consider a thing on its own terms then evaluate after.
+
+( I'll love you no matter what. <3 )
+
+Note:
+
+(Read the slide.)
 
 ---
 
