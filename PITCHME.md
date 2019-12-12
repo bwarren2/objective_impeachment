@@ -2,6 +2,7 @@
 
 Note:
 
+I want to talk with you about something hard.
 
 ---
 
@@ -11,7 +12,7 @@ The news stopped being the news a long time ago; it mostly feels like opinion an
 
 Watching different media makes it feel like we live on different worlds.
 
-I feel like our current events on impeachment are really important, and I want to talk about it (not talking points) with you.
+I feel like our current events on impeachment are really important, and I want to talk about them (not talking points) with you.
 
 Note:
 
@@ -21,15 +22,28 @@ Note:
 
 ##### The Solution
 
-I pulled together a bunch of sources to paint the big picture as best I understand it; call it "journalism".
+I pulled together a bunch of sources to paint the big picture as best I understand it.
 
-We've watched movies before, so I know we can consider a thing on its own terms then evaluate after.
+We've watched movies before, so I know we can consider a thing on its own terms then critique after.
 
 ( I'll love you no matter what. <3 )
 
 Note:
 
 (Read the slide.)
+
+---
+
+### This video
+
+**Part 1. The impeachment case on Bribery/Abuse of Power: events, testimony, and timeline**
+Part 2. Analysis of events
+Part 3. Republican Counterarguments
+Part 4. How this relates to us
+
+Later editions might cover new information and the other allegation, Obstruction of Congress.
+
+Note:
 
 ---
 
@@ -67,70 +81,13 @@ Note:
 
 "Whoever, being a public official, directly or indirectly corruptly demands or seeks anything of value personally in return for being influences in the performance of an official act"
 
-taken together,
-
-"The President shall be removed on impeachment and conviction" of directly or indirectly demanding anything of value personally in exchange for being influenced in the performance of an official act".
-
-("Quid pro quo" means "this for that", and describes the "exchange" part.)
-
-So we will lay out two sides of the case.
-
----
-
-### What we will cover
-
-Part 1. The impeachment case, with requirements, facts, and testimony
-
-Part 2. Counterarguments currently made
-
-Note:
-
-1. The affirmative case for impeachment, with required claims, facts, and testimony.
-
-2. The counterarguments made by Republicans.
-
-So, part 1:
-
----
-
-### Part 1:
-
-Did Donald Trump seek something of personal value in return for official government policy?
-
-Note:
-
-Did Donald Trump seek a thing of value in return for being influenced in the performance of an official act?  Three things need to be true.
-
----
-
-### Claims Required For Proof
-
-1. Trump sought/demanded an exchange of:
-2. an official act
-3. for a thing of value
-
-Note:
-
-(Read slide)
-
----
-
-Without _all three_ of those things, there is no bribery.
-
-Without seeking/a demand, there is no bribery.
-Without the "thing of value" that is not part of his job, there is no bribery.
-
-Note:
-
-(Read slide)
-
 ---
 
 But note: the transaction doesn't have to go through.
 
 The demand itself is sufficient.
 
-For example, if a teacher says "if you want to pass this class you'll sleep with me" and the student calls the cops, it doesn't matter if sex happened; the solicitation itself is illegal.
+For example, if a safety inspector examining your business says "If you want to pass, you'll get me $1K", it doesn't matter whether you pay or don't; the solicitation itself is illegal.
 
 Note:
 
@@ -283,7 +240,7 @@ Note:
 
 From house intelligence testimony, we know Mulvaney froze the $400 in congressionally-approved Ukraine aid in July.  (Source in the slides, shared at the end.)
 
-Then, the famouse call.
+Then, the famous call.
 +++
 
 [Source](https://intelligence.house.gov/uploadedfiles/sandy_final_redacted.pdf)
