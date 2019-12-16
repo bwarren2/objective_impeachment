@@ -503,27 +503,13 @@ Then the next day the aid was released.
 
 ---
 
-#### Three claims revisited
-
-1. Trump sought/demanded an exchange of
-2. an official act (white house meeting OR Ukraine military aid)
-3. for a thing of value (investigations)
-
-But the thing must be _personally_ valuable, not just valuable overall, thus:
-
- * the investigations must also be primarily for the President's benefit.
-
----
-
 #### Summary so far
 
 Sondland: "There was a quid pro quo."  Rudy Giuliani was the primary messenger.
 
+Trump to Zelensky: Work with my guy Giuliani.
+
 Sondland told President Zelensky's assistant "announce the investigations to get the military aid."
-
-**This is claims 1-3.**
-
-But were the investigations primarily valuable to Trump?  Giuliani thought so.
 
 ---
 
@@ -614,6 +600,14 @@ These are the two _most_ useful investigations for Trump, and they (tellingly) h
 Note:
 
 What do Republicans say?
+
+---
+
+##### This is really important to me
+
+I don't want this behavior to be normal in the United States.
+
+I intend to live here for the next 50-60 years.
 
 ---
 
