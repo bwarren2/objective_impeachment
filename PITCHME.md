@@ -40,9 +40,12 @@ Think of this like a Marvel movie; you can watch all the way through, think abou
 
 ### This video
 
-**Part 1. Events, testimony, and timeline**
+Part 1. Events, testimony, and timeline
+
 Part 2. Analysis of events
+
 Part 3. Republican Counterarguments
+
 Part 4. How this relates to us
 
 Note:
