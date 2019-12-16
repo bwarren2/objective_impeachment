@@ -1,8 +1,8 @@
-## A Grandchild's Appeal
+## An Appeal Among Family
 
 Note:
 
-I want to talk with you about something hard.
+I want to talk with you about something difficult.
 
 ---
 
@@ -12,7 +12,7 @@ The news stopped being the news a long time ago; it mostly feels like opinion an
 
 Watching different media makes it feel like we live on different worlds.
 
-I feel like our current events on impeachment are really important, and I want to talk about them (not talking points) with you.
+Current events impeachment are really important to me, and I want to talk about them (not talking points) with you.
 
 Note:
 
@@ -24,27 +24,34 @@ Note:
 
 I pulled together a bunch of sources to paint the big picture as best I understand it.
 
-We've watched movies before, so I know we can consider a thing on its own terms then critique after.
+Think of this like a Marvel movie; you can watch all the way through, think about it, and critique after.
 
 ( I'll love you no matter what. <3 )
 
 Note:
 
-(Read the slide.)
+I pulled together a bunch of sources to paint the big picture as best I understand it.
+
+Think of this like a Marvel movie; you can watch all the way through, think about it, and critique after. (Just suspend disbelief, don't banish it.)
+
+( I'll love you no matter what. <3 )
 
 ---
 
 ### This video
 
-**Part 1. The impeachment case on Bribery/Abuse of Power: events, testimony, and timeline**
+**Part 1. Events, testimony, and timeline**
 Part 2. Analysis of events
 Part 3. Republican Counterarguments
 Part 4. How this relates to us
 
-Later editions might cover new information and the other allegation, Obstruction of Congress.
-
 Note:
 
+(Read slide)
+
+In this video I'll only talk about the facts and events.
+
+Later editions might cover new information and the other allegation, Obstruction of Congress.
 ---
 
 ### What the US Constitution Says
@@ -58,9 +65,9 @@ Note:
 
 "The President shall be removed from office on Impeachment for, and conviction of, Bribery."
 
-We don't need to debate "High Crimes and Misdemeanors" if the crime is named in the Constition.
+All of these describe abuse of power; using it to sell out the country, or take personal gain, or other high crimes of office.  These are things that only powerful people can do.
 
-What does bribery mean?
+In particular, what does bribery mean?
 
 ---
 
@@ -87,7 +94,7 @@ But note: the transaction doesn't have to go through.
 
 The demand itself is sufficient.
 
-For example, if a safety inspector examining your business says "If you want to pass, you'll get me $1K", it doesn't matter whether you pay or don't; the solicitation itself is illegal.
+For example, if a restaurant inspector examining your business says "If you want to pass, you'll get me $1K", it doesn't matter whether you pay or don't; the solicitation itself is illegal.
 
 Note:
 
