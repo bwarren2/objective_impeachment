@@ -12,7 +12,7 @@ The news stopped being the news a long time ago; it mostly feels like opinion an
 
 Watching different media makes it feel like we live on different worlds.
 
-Current events impeachment are really important to me, and I want to talk about them (not talking points) with you.
+Current events in impeachment are really important to me, and I want to talk about them (not talking points) with you.
 
 Note:
 
