@@ -2,7 +2,7 @@
 
 Note:
 
-I want to talk with you about something difficult.
+I want to talk with you about something difficult that really matters to me.
 
 ---
 
